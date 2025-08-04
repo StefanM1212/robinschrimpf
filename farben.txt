@@ -1,0 +1,4 @@
+Primärfarbe:    #1E2749
+Basiston:       #EBEEF2
+Akzentfarbe:    #E89522
+Textfarbe:      #101820
